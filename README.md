@@ -21,9 +21,8 @@ Language: Japanese
 　調査期間：	2021年2月26日（金）～　同3月3日（水）  
 　調査方法：インターネット・アンケート  
 　回答者：日本国内の20～70代男女全1611名、各企業で、直近1年間に2回以上購入者（詳細は後述）  
+　主な内容: 顧客満足指標、感動指数・失望指数、サービス品質評価、不満対応評価、口コミ人数（肯定・否定）、利用理由、よい点、コロナ対応、購入内容、利用頻度、1回当たりの利用金額  
 　企画・集計・分析・報告：青木恭子  
-　主な内容: 顧客満足指標、感動指数・失望指数、品質評価項目（サービスのポイントごとの評価）、不満対応評価、口コミ人数（肯定・否定）、利用理由、よい点、コロナ対応  
-　購入内容、利用頻度、1回当たりの利用金額 など　　
 <br>
 
 ## Japanese flower retailers customer satisfaction survey 2021  
@@ -38,8 +37,8 @@ Companies: 2 flower retail specialty shops and 4 mass retailers (flower sales fl
 Survey date: Friday, February 26, 2021 - Wednesday, March 3, 2021  
 Respondents :  A total of 1611 men and women in their 20s to 70s living in Japan, who have purchased at least twice in the last year at one of the 6 companies. 
 Method: Internet survey  
-Planning, analysis and reporting: Kyoko Aoki  
 Key contents: Customer satisfaction index, customer delight & disappointment indices, service quality evaluation, dissatisfaction, claim recovery  evaluation, word-of-mouth response (positive/negative), reasons for use, good points, evaluation of corona infection prevention measures.   Goods purchased, purchase frequency, average customer spend.  
+Planning, analysis and reporting: Kyoko Aoki  
 <br>
 
 ● Recommended citation  
