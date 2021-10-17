@@ -17,7 +17,7 @@ Language: Japanese
 　「出典：青木恭子（2021）『花小売 顧客満足の構造』国産花き日持ち性向上推進協議会（受託先：日本生産性本部 サービス産業生産性協議会）」  
 ● 調査概要  
 　調査は、農林水産省の資金を得て、国産花き日持ち性向上推進協議会が実施した。実査は、「[JCSI日本版顧客満足度調査（Japanese Customer Satisfaction Index）](https://www.jpc-net.jp/research/jcsi/)」を運営している公益財団法人 日本生産性本部 サービス産業生産性協議会（SPRING）に受託。JCSIは、サービス産業を横断した日本最大級の顧客満足度調査。基本的な枠組みと顧客満足主要指標の因果モデルは、米国の [ACSI (American Customer Satisfaction Index)](https://www.theacsi.org/)を基盤としている。花小売店調査はカスタム調査であり、JCSI公式調査ではない。  
-　対象企業： 花小売専門店2社、量販店（花売場）4社（青山フラワーマーケット、日比谷花壇、カインズ、イオン、ヤオコー、コープみらい）  
+　対象企業： 花専門店2社（青山フラワーマーケット、日比谷花壇）、量販店（花売場）4社（カインズ、イオン、ヤオコー、コープみらい）  
 　調査期間：	2021年2月26日（金）～　同3月3日（水）  
 　調査方法：インターネット・アンケート  
 　回答者：日本国内の20～70代男女全1611名、各企業で、直近1年間に2回以上購入者（詳細は後述）  
@@ -33,7 +33,7 @@ The basic framework and the causal model of the key customer satisfaction indica
 JCSI is one of the largest customer satisfaction surveys in Japan across the service industries, but the flower retailer survey is a customized survey, not an "official" JCSI survey.  
 <br>  
 ● Survey overview  
-Companies: 2 flower retail specialty shops and 4 mass retailers (flower sales floors) (Aoyama Flower Market, Hibiya Kadan, Cain's, Aeon, Yaoko, Coop Mirai)  
+Companies: 2 flower retail specialty shops (Aoyama Flower Market and Hibiya Kadan) and 4 mass retailers (flower sales sections of Cainz, Aeon, Yaoko and Coop Mirai)  
 Survey date: Friday, February 26, 2021 - Wednesday, March 3, 2021  
 Respondents :  A total of 1611 men and women in their 20s to 70s living in Japan, who have purchased at least twice in the last year at one of the 6 companies. 
 Method: Internet survey  
