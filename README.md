@@ -43,7 +43,7 @@ Key contents: Customer satisfaction index, customer delight & disappointment ind
 <br>
 
 ● Recommended citation  
-Aoki, Kyoko (2021). *The structure of customer satisfaction Flower retailers 2021 JCSI Japanese Customer Satisfaction Index custom survey*. Council for the Improvement of the Vase-life of Japanese Flowers.  
+Aoki, Kyoko (2021). *The structure of customer satisfaction. Flower retailers: 2021 JCSI Japanese Customer Satisfaction Index custom survey*. Council for the Improvement of the Vase-life of Japanese Flowers.  
  
 
 About  
