@@ -1,8 +1,8 @@
 # flower-retailer-customer-satisfaction-survey2021-Japan
 Japanese flower retailers customer satisfaction survey 2021.  
 A customized survey using the JCSI(Japan Customer Satisfaction Index) framework, compatible with the ACSI in the US.  
-This repository includes: Questionnaire, datatable and report  
-language: Japanese 
+This repository includes: questionnaire, datatable and [report](https://github.com/gerdaresearch/flower-retailer-customer-satisfaction-survey2021-Japan/blob/main/JCSI_consumer_satisfaction_survey_REPORT_flower_retailer_2021.pdf)  
+Language: Japanese 
 <br>
 
 ## 「花小売 顧客満足の構造：2021年JCSI日本版顧客満足度調査（生花店カスタム調査）」
