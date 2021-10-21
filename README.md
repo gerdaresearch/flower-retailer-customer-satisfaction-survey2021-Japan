@@ -42,8 +42,9 @@ Planning, analysis and reporting: Kyoko Aoki
 <br>
 
 ● Recommended citation  
-Aoki, Kyoko (2021). *The structure of customer satisfaction. Flower retailers: 2021 JCSI Japanese Customer Satisfaction Index custom survey*. Council for the Improvement of the Vase-life of Japanese Flowers.  
- 
+・Aoki, Kyoko (2021). *The structure of customer satisfaction. Flower retailers: 2021 JCSI Japanese Customer Satisfaction Index custom survey*. Japan Flower Vase Life Improvement Council.  
+・Japan Flower Vase Life Improvement Council (2021).*The structure of customer satisfaction: 2021 JCSI custom survey on Flower shops.* MPS Japan.
+
 
 About  
 花小売　顧客満足の構造（農林水産省次世代国産花き産業確立推進事業）Flower retailers customer satisfaction survey, Japan  
